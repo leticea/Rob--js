@@ -13,13 +13,13 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
-- [NodeJS](https://nodejs.org/en/docs/) 
-- [NPM](https://www.npmjs.com/) 
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [NodeJS](https://nodejs.org/en/docs/) - v18.12.1
+- [NPM](https://www.npmjs.com/) - 8.19.2
 
 ## 💻 Projeto
 
-Aplicação com JavaScript e NodeJS de um robô que converte a moeda desejada.
+Aplicação com JavaScript e NodeJS de um robô que converte a moeda informada.
 
 Aula do canal [Mario Souto](https://www.youtube.com/watch?v=4W55nFDyIrc&list=PLTcmLKdIkOWntJJVhd0etFmdN8bWXJif9)
 
